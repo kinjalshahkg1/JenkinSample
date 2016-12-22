@@ -11,7 +11,7 @@ namespace Testjenkins
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            int k = 5/0;
+            //int k = 5/0;
             Response.Write("Hi is 78787test!!!!!!!!");
         }
     }

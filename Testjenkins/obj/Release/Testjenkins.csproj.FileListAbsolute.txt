@@ -1,0 +1,4 @@
+D:\JenkinSample1\Testjenkins\bin\Testjenkins.dll
+D:\JenkinSample1\Testjenkins\bin\Testjenkins.pdb
+D:\JenkinSample1\Testjenkins\obj\Release\Testjenkins.dll
+D:\JenkinSample1\Testjenkins\obj\Release\Testjenkins.pdb
