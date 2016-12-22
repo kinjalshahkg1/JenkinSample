@@ -1,0 +1,5 @@
+D:\WPF Tutorial\Testjenkins\Testjenkins\bin\Testjenkins.dll
+D:\WPF Tutorial\Testjenkins\Testjenkins\bin\Testjenkins.pdb
+D:\WPF Tutorial\Testjenkins\Testjenkins\obj\Debug\Testjenkins.csprojResolveAssemblyReference.cache
+D:\WPF Tutorial\Testjenkins\Testjenkins\obj\Debug\Testjenkins.dll
+D:\WPF Tutorial\Testjenkins\Testjenkins\obj\Debug\Testjenkins.pdb

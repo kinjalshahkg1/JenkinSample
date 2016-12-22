@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\WPF Tutorial\Testjenkins\Testjenkins\obj\DEBUG\Package\PackageTmp" />
+  <setAcl path="D:\WPF Tutorial\Testjenkins\Testjenkins\obj\DEBUG\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="D:\WPF Tutorial\Testjenkins\Testjenkins\obj\DEBUG\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
